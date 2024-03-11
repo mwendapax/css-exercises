@@ -1,0 +1,16 @@
+.bg-red {
+    background-color: #ffc0cb;
+    font-family: Verdana, Dejavu sans, sans-serif;
+}
+.sized {
+    font-size: 24px;
+}
+#blue-text {
+    color: #0000ff;
+    font-size: 36px;
+}
+#bg-green {
+    background-color: hsl(120, 54%, 65%);
+    font-size: 24px;
+    font-weight: bold;
+}
